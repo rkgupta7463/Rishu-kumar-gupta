@@ -15,36 +15,37 @@ html{
     /* width: 250px; */
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     height: 15vh;
-    opacity: 0.7;
-
+    /* text-align: center;
+    align-items: center;
+    justify-content: center; */
+    /* background-image: url('../img (1).jpg'); */
+    opacity: 0.6;
 }
 .sidebar nav{
     display: inline-block;
     margin: auto;
 }
 .sidebar nav li{
+    display: inline-block;
     list-style: none;
     color: white;
-    font-size: 22px;
+    font-size: 20px;
     /* padding: 30px 0; */
     padding: 15px 12px ;
 }
-.sidebar nav ul li{
+.sidebar ul{
     text-align: center;
-    display: inline-block;
-    margin: auto;
 }
 .sidebar nav ul li a{
     padding: 10px;
     text-align: center;
-    font-size: 20px;
     text-decoration: none;
     color: white;
+    opacity: 1;
 }
 .sidebar nav ul li a:hover{
     color: red;
-    font-size: x-large;
-
+/*     font-size: x-large; */
 }
 .main::before{
     content: "";
