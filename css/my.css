@@ -180,3 +180,11 @@ to{
         #img2:hover{
         width: 142px;
         }
+.icon{
+    font-size: x-large;
+    margin-right: 22px;
+    margin-top: 23px;
+}
+.log img {
+    width: 40px;
+}
