@@ -11,7 +11,7 @@
     background: url('../images/dp.jpg') no-repeat center center/cover;
     top: 0;
     left: 0;
-    height: 120%;
+    height: 125%;
     width: 100%;
     z-index: -1;
     opacity: 1.0;
@@ -50,4 +50,7 @@
     font-size: x-large;
     margin-right: 22px;
     margin-top: 26px;
+}
+.log img {
+    width: 40px;
 }
