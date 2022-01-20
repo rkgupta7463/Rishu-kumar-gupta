@@ -168,11 +168,11 @@ box-shadow: 30px 30px 60px rgba(0, 0, 0, 0.8);
     padding-right:10px ;
 }
 .phm a{
-    color: rgb(88, 87, 87);
+    color: rgb(43, 42, 42);
     text-decoration: none;
 }
 .phm a:hover{
-    color: whitesmoke;
+    color: rgb(255, 1, 1);
 }
 .icon #fc:hover{
     /* color:aquamarine; */
