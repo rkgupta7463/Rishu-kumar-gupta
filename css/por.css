@@ -18,6 +18,25 @@
     /* background-image: url('../img (1).jpg'); */
     opacity: 0.6;
 }
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+.fa{
+    color: white;
+    
+}
+a:hover{
+    color: red;
+}
+.fa{
+    color: white;
+    margin: 0 10px;
+}
+.fa:hover{
+    color: red;
+}
 .sidebar nav{
     display: inline-block;
     margin: auto;
@@ -39,10 +58,6 @@
     text-decoration: none;
     color: white;
     opacity: 1;
-}
-.sidebar nav ul li a:hover{
-    color: red;
-/*     font-size: x-large; */
 }
 .main::before{
     content: "";
