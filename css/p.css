@@ -16,10 +16,7 @@
 
 .fa{
     color: white;
-    margin: 0 10px;
-}
-a{
-    /* padding: 0 10px; */
+    margin: 0 2px;
 }
 .main::before{
     content: "";
@@ -63,4 +60,13 @@ a{
     font-size: x-large;
     margin-right: 22px;
     margin-top: 26px;
+}
+.log img{
+    width: 45px;
+    margin: 10px 10px;
+    border-radius: 5px 15px;
+    transform: rotate3d(0deg);
+    perspective: 10px;
+    transform: rotateY(50deg);
+    transform-style:preserve-3d ;
 }
