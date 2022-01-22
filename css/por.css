@@ -12,10 +12,6 @@
     /* width: 250px; */
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     height: 15vh;
-    /* text-align: center;
-    align-items: center;
-    justify-content: center; */
-    /* background-image: url('../img (1).jpg'); */
     opacity: 0.6;
 }
 nav a{
@@ -51,6 +47,7 @@ a:hover{
 }
 .sidebar ul{
     text-align: center;
+    font-size: x-large
 }
 .sidebar nav ul li a{
     padding: 10px;
