@@ -5,6 +5,12 @@
     font-size: 15px;
     color: white;
 }
+.sidebar nav li {
+    display: inline-block;
+    list-style: none;
+    color: white;
+    font-size: 15px;
+    padding: 10px 0px;
 .sidebar{
     display: flex;
     background-color: gray;
