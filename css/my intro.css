@@ -18,23 +18,9 @@ html{
     opacity: 0.7;
 
 }
-nav a{
-    color: white;
-    text-decoration: none;
-    padding: 8px;
-}
-a:hover{
-
-    color: red;
-}
 .fa{
     color: white;
-    margin: 0 10px; 
-}
-.fa:hover{
-    color: red;
-}
-nav ul li:hover{
+    margin: 0 2px; 
 }
 .sidebar nav{
     display: inline-block;
