@@ -25,6 +25,23 @@ html{
     display: inline-block;
     margin: auto;
 }
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+a:hover{
+
+    color: red;
+}
+.fa{
+    color: white;
+    margin: 0 10px;
+    
+}
+.fa:hover{
+    color: red;
+}
 .sidebar nav li{
     display: inline-block;
     list-style: none;
