@@ -14,24 +14,9 @@
     height: 15vh;
     opacity: 0.6;
 }
-nav a{
-    color: white;
-    text-decoration: none;
-    padding: 8px;
-}
 .fa{
     color: white;
-    
-}
-a:hover{
-    color: red;
-}
-.fa{
-    color: white;
-    margin: 0 10px;
-}
-.fa:hover{
-    color: red;
+    margin: 0 2px; 
 }
 .sidebar nav{
     display: inline-block;
