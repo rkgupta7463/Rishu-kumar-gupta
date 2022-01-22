@@ -12,6 +12,19 @@
     /* padding: 30px 0; */
     padding: 12px 5px ;
 }
+.fa{
+    color:red
+    marginn:0 2px
+}
+.log img{
+    width: 45px;
+    margin: 10px 10px;
+    border-radius: 5px 15px;
+    transform: rotate3d(0deg);
+    perspective: 10px;
+    transform: rotateY(50deg);
+    transform-style:preserve-3d ;
+}
 
 .main::before{
     content: "";
