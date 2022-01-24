@@ -1,4 +1,16 @@
-/* .sidebar nav ul li a{
+.info {
+    /* background-color: rgb(151, 3, 236); */
+    height: 75vh;
+    width: 70vw;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: 900;
+}
+* 
+.sidebar nav ul li a{
     padding: 0px 6px;
     text-align: center;
     text-decoration: none;
@@ -101,3 +113,4 @@ li{
     transform: rotateY(50deg);
     transform-style:preserve-3d ;
 }
+
