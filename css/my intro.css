@@ -51,7 +51,7 @@ ul{
 .main::before{
     content: "";
     position: absolute;
-    background: url('../images/img\ \(3\).jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/random/?nature') no-repeat center center/cover;
     top: 0;
     left: 0;
     height: 160%;
@@ -274,21 +274,7 @@ to{
     text-decoration: none;
     padding: 10px 10px;
 }
-.phm a:hover{
-    color: rgb(173, 173, 173);
-}
-.icon #fc:hover{
-    /* color:aquamarine; */
-    font-size: large;
-}
-.icon #insta:hover{
-    /* color:aquamarine; */
-    font-size: large;
-}
-.icon #link:hover{
-    font-size: large;
-    /* color:aquamarine; */
-}
+
 .icon{
     font-size: x-large;
     margin-right: 20px;
