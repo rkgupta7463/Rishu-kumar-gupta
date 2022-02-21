@@ -63,7 +63,6 @@ li{
 .main::before{
     content: "";
     position: absolute;
-    /* background: url('../images/dp.jpg') no-repeat center center/cover; */
     top: 0;
     left: 0;
     height: 120%;
