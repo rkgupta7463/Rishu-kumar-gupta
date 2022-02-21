@@ -6,6 +6,10 @@
     margin: 0;
     padding: 0;
 }
+body{
+  display: grid;
+  grid-template-rows: 20% 80%;
+}
 .sidebar{
     display: flex;
     background-color: gray;
@@ -41,10 +45,10 @@
     color: white;
     opacity: 1;
 }
-.main::before{
+.main{
     content: "";
     position: absolute;
-    background: url('../images/dp.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/random/?hills') no-repeat center center/cover;
     top: 0;
     left: 0;
     height: 130%;
@@ -170,18 +174,6 @@ box-shadow: 30px 30px 60px rgba(0, 0, 0, 0.8);
 }
 .phm a:hover{
     color: rgb(255, 1, 1);
-}
-.icon #fc:hover{
-    /* color:aquamarine; */
-    font-size: large;
-}
-.icon #insta:hover{
-    /* color:aquamarine; */
-    font-size: large;
-}
-.icon #link:hover{
-    font-size: large;
-    /* color:aquamarine; */
 }
 .icon{
     font-size: x-large;
