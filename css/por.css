@@ -93,6 +93,7 @@ box-shadow: 30px 30px 60px rgba(0, 0, 0, 0.8);
 }
 .devinfo{
     padding-top: 20px;
+    margin: 25px;
     display: block;
     justify-content: center;
     flex-direction: column;
